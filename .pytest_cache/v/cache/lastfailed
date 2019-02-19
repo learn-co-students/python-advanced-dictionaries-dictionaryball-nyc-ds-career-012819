@@ -1,4 +1,5 @@
 {
+  "test/index_test.py": true,
   "test/index_test.py::TestDictionaryBall::test_game_dict": true,
   "test/index_test.py::TestDictionaryBall::test_num_points_scored": true,
   "test/index_test.py::TestDictionaryBall::test_player_numbers": true,
