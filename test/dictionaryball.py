@@ -1,6 +1,7 @@
 game_dictionary = {}
                       
 def create_top_level():
+    g_dict = {}
     g_dict["home"] = {"team_name" : "Brooklyn Nets", "colors" : ["Black", "White"], "players" : {}}
     g_dict["away"] = {"team_name" : "Charlotte Hornets", "colors" : ["Turquoise", "Purple"], "players" : {}}
     return g_dict
