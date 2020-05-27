@@ -83,4 +83,3 @@ def big_shoe_rebounds():
             if shoe_size(key) > max_shoe:
                 max_shoe = shoe_size(key)
                 player = key
-    return player_stats(player)['rebounds']
